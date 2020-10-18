@@ -104,7 +104,7 @@ def start():
                             print '\n\033[1;96m[[\033[1;95m♤\033[1;96m]] \033[1;96mUSER NAME \033[1;95m╼\033[1;97m❯❯❯\033[1;95m '+email
                             print '\033[1;96m[[\033[1;95m♤\033[1;96m]] \033[1;96mPASSWORD \033[1;95m╼\033[1;97m❯❯❯\033[1;95m '+pw
                             print '\033[1;96m[[\033[1;95m♤\033[1;96m]] \033[1;96mYOUR ATTACKING \033[1;95m╼\033[1;97m❯❯❯  \033[1;95mCHEKPOINT'
-                            print '\033[1;96m[[\033[1;95m♤\033[1;96m]] \033[1;96mPROGRAM NAT MYO FINISH'
+                            print '\033[1;96m[[\033[1;95m♤\033[1;96m]] \033[1;96mPROGRAM NAY MYO FINISH'
                             sys.exit()
                 except requests.exceptions.ConnectionError:
                     print '\033[1;96m[[\033[1;95m♤\033[1;96m]] \033[1;97mYOUR "MYANMAR" CONNECTION IS ERROR \033[1;96m[[\033[1;95m♤\033[1;96m]]'
